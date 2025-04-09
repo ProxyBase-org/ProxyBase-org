@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](./banner_twitter.png)
 <!--
 **ProxyBase-org/ProxyBase-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
